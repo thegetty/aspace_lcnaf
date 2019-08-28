@@ -35,7 +35,6 @@ Pipenv automatically creates and manages a virtualenv for your projects, as well
 * The result is a CSV list of all agents by the input type, which is saved in either `/data/sb` or `/data/prod` depending on the input environment. It includes:
 	* Aspace_ID - unique identifier in ASpace
 	* Names - Display name in ASpace
-	* Authorized : mostly True
 	* Authority_ID : authority id if any
 	* Source : source of name
 
