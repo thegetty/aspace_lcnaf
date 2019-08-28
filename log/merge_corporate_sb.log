@@ -1,0 +1,596 @@
+INFO 2019-08-22 14:01:08,161   {'status': 'OK'},1088,1342,Nicholas Wilder Gallery
+INFO 2019-08-22 14:01:26,755   {'status': 'OK'},1206,1343,Instituto Nacional de Arqueología (Bolivia)
+INFO 2019-08-22 14:01:40,361   {'status': 'OK'},1223,1344,Steven Leiber (Gallery)
+INFO 2019-08-22 14:01:54,403   {'status': 'OK'},1074,1345,Stephen White Gallery of Photography
+INFO 2019-08-22 14:02:06,932   {'status': 'OK'},1005,1346,AC Martin Partners
+
+
+INFO 2019-08-23 10:24:30,821   {'status': 'OK'},1083,1347,Adelphoi Zangaki (Firm)
+INFO 2019-08-23 10:24:43,304   {'status': 'OK'},1078,1348,Pan-Presse
+INFO 2019-08-23 10:24:56,170   {'status': 'OK'},1089,1349,Gesellschaft für Vervielfältigende Kunst (Vienna, Austria)
+INFO 2019-08-23 10:25:10,172   {'status': 'OK'},1210,1350,Deutscher Guttempler-Orden
+INFO 2019-08-23 10:25:24,215   {'status': 'OK'},1216,1351,Kasseler Kunstverein
+INFO 2019-08-23 10:25:38,209   {'status': 'OK'},1217,1352,Sächsischer Kunstverein
+INFO 2019-08-23 10:25:52,261   {'status': 'OK'},9,1353,Getty Grant Program
+INFO 2019-08-23 10:26:06,223   {'status': 'OK'},1222,1353,Getty Grant Program
+INFO 2019-08-23 10:26:22,339   {'status': 'OK'},23,1355,Mutter Ey G.m.b.H.
+INFO 2019-08-23 10:26:38,346   {'status': 'OK'},24,1356,Association Connaissance de l'histoire de l'Afrique contemporaine
+INFO 2019-08-23 10:26:54,315   {'status': 'OK'},25,1357,France. Armée. Méharistes
+INFO 2019-08-23 10:27:10,363   {'status': 'OK'},26,1358,France. Armée. Tirailleurs sénégalais
+INFO 2019-08-23 10:27:24,329   {'status': 'OK'},27,1359,France. Armée. Troupes coloniales
+INFO 2019-08-23 10:27:38,126   {'status': 'OK'},29,1360,Exposition coloniale de Marseille (1906)
+INFO 2019-08-23 10:27:54,119   {'status': 'OK'},31,1361,Exposition coloniale internationale de Paris (1931)
+INFO 2019-08-23 10:28:08,570   {'status': 'OK'},32,1362,A.D.I.A.
+INFO 2019-08-23 10:28:24,020   {'status': 'OK'},37,1363,Casino (Firm)
+INFO 2019-08-23 10:28:38,024   {'status': 'OK'},44,1364,Combier Imprimeur Mâcon
+INFO 2019-08-23 10:28:54,038   {'status': 'OK'},48,1365,Eckstein-Halpaus
+INFO 2019-08-23 10:29:06,547   {'status': 'OK'},50,1366,Imagerie Pellerin (Épinal, France)
+INFO 2019-08-23 10:29:20,027   {'status': 'OK'},55,1367,Office algérien d'action economique et touristique
+INFO 2019-08-23 10:29:34,107   {'status': 'OK'},62,1368,Brooklyn Museum
+INFO 2019-08-23 10:29:50,055   {'status': 'OK'},64,1369,Tennessee Valley Authority
+INFO 2019-08-23 10:30:02,776   {'status': 'OK'},65,1370,Nicholas Grimshaw and Partners
+INFO 2019-08-23 10:30:18,052   {'status': 'OK'},66,1371,Bauhaus-Archiv, Museum für Gestaltung
+INFO 2019-08-23 10:30:32,042   {'status': 'OK'},69,1372,Henry E. Huntington Library and Art Gallery
+INFO 2019-08-23 10:30:48,256   {'status': 'OK'},70,1373,New York University. Institute of Fine Arts
+INFO 2019-08-23 10:31:00,814   {'status': 'OK'},71,1374,Tamarind Lithography Workshop
+INFO 2019-08-23 10:31:13,295   {'status': 'OK'},74,1375,Virginia Steele Scott Gallery
+INFO 2019-08-23 10:31:25,785   {'status': 'OK'},76,1376,Kennedy Galleries
+INFO 2019-08-23 10:31:38,289   {'status': 'OK'},77,1377,Vose Galleries of Boston
+INFO 2019-08-23 10:31:50,875   {'status': 'OK'},78,1378,Galerie Bonnier
+INFO 2019-08-23 10:32:03,406   {'status': 'OK'},79,1379,Svensk-franska konstgalleriet (Stockholm, Sweden) 
+INFO 2019-08-23 10:32:15,874   {'status': 'OK'},81,1380,Galerie Durand-Ruel
+INFO 2019-08-23 10:32:30,203   {'status': 'OK'},82,1381,Galerie Louis Carré
+INFO 2019-08-23 10:32:52,194   {'status': 'OK'},84,1382,Musèe Rodin
+INFO 2019-08-23 10:33:06,088   {'status': 'OK'},85,1383,Arnoldo Mondadori editore
+INFO 2019-08-23 10:33:20,120   {'status': 'OK'},86,1384,Bompiani (Firm)
+INFO 2019-08-23 10:33:34,124   {'status': 'OK'},88,1385,Beaulieu Abbey
+INFO 2019-08-23 10:33:48,035   {'status': 'OK'},91,1386,St. Mary's Hospital (Chichester, England)
+INFO 2019-08-23 10:34:02,431   {'status': 'OK'},94,1387,United States. Army 
+INFO 2019-08-23 10:34:16,243   {'status': 'OK'},95,1388,Musée des arts décoratifs (France)
+INFO 2019-08-23 10:34:38,100   {'status': 'OK'},96,1389,Union centrale des arts décoratifs (Paris, France)
+INFO 2019-08-23 10:34:52,099   {'status': 'OK'},97,1390,Exposition universelle de 1889 (Paris, France)
+INFO 2019-08-23 10:35:06,582   {'status': 'OK'},99,1391,International Congresses for Modern Architecture. Belgian Section 
+INFO 2019-08-23 10:35:20,079   {'status': 'OK'},101,1392,Team 10
+INFO 2019-08-23 10:35:34,092   {'status': 'OK'},112,1393,8 (Group of architects)
+INFO 2019-08-23 10:35:48,140   {'status': 'OK'},113,1394,ASCORAL
+INFO 2019-08-23 10:36:02,585   {'status': 'OK'},114,1395,British Council (Belgium)
+INFO 2019-08-23 10:36:16,190   {'status': 'OK'},116,1396,Modern Architectural Research Group
+INFO 2019-08-23 10:36:30,230   {'status': 'OK'},117,1397,Opbouw (Group of architects)
+INFO 2019-08-23 10:36:44,294   {'status': 'OK'},118,1398,Mayor Gallery
+INFO 2019-08-23 10:36:56,768   {'status': 'OK'},119,1399,Museo del Prado
+INFO 2019-08-23 10:37:10,019   {'status': 'OK'},120,1400,Tate Gallery
+INFO 2019-08-23 10:37:24,072   {'status': 'OK'},121,1401,William and Noma Copley Foundation
+INFO 2019-08-23 10:37:38,130   {'status': 'OK'},127,1402,Galerie Georges Petit
+INFO 2019-08-23 10:37:54,158   {'status': 'OK'},131,1403,Society of Dilettanti (London, England)
+INFO 2019-08-23 10:38:06,628   {'status': 'OK'},133,1404,Durlacher Bros.
+INFO 2019-08-23 10:38:19,094   {'status': 'OK'},134,1405,Duveen Brothers
+INFO 2019-08-23 10:38:36,618   {'status': 'OK'},135,1406,F. Kleinberger Galleries (New York, N.Y.) 
+INFO 2019-08-23 10:38:49,130   {'status': 'OK'},136,1407,Wildenstein and Company (New York, N.Y.)
+INFO 2019-08-23 10:39:01,612   {'status': 'OK'},137,1408,Thos. Agnew and Sons Ltd.
+INFO 2019-08-23 10:39:14,251   {'status': 'OK'},141,1409,Deutscher Kunstverlag
+INFO 2019-08-23 10:39:28,211   {'status': 'OK'},142,1410,Deutscher Werkbund
+INFO 2019-08-23 10:39:42,142   {'status': 'OK'},144,1411,Nicholas Roerich Museum (New York, N.Y.)
+INFO 2019-08-23 10:39:56,164   {'status': 'OK'},149,1412,Eisenman Architects
+INFO 2019-08-23 10:40:10,277   {'status': 'OK'},150,1413,British Museum
+INFO 2019-08-23 10:40:24,338   {'status': 'OK'},151,1414,Ayasofya Müzesi
+INFO 2019-08-23 10:40:38,029   {'status': 'OK'},152,1415,Harvard University. Graduate School of Design
+INFO 2019-08-23 10:40:52,040   {'status': 'OK'},153,1416,Washington Cathedral
+INFO 2019-08-23 10:41:08,267   {'status': 'OK'},155,1417,Banyan Press
+INFO 2019-08-23 10:41:20,730   {'status': 'OK'},156,1418,Bennington College
+INFO 2019-08-23 10:41:38,063   {'status': 'OK'},157,1419,Betty Parsons Gallery
+INFO 2019-08-23 10:41:52,181   {'status': 'OK'},158,1420,Gotham Book Mart
+INFO 2019-08-23 10:42:06,216   {'status': 'OK'},159,1421,Grolier Club
+INFO 2019-08-23 10:42:20,248   {'status': 'OK'},160,1422,Jargon Society
+INFO 2019-08-23 10:42:34,268   {'status': 'OK'},161,1423,New York Public Library
+INFO 2019-08-23 10:42:50,148   {'status': 'OK'},162,1424,Elmer Holmes Bobst Library
+INFO 2019-08-23 10:43:02,766   {'status': 'OK'},163,1425,Stinehour Press
+INFO 2019-08-23 10:43:16,336   {'status': 'OK'},164,1426,Living Theatre (New York, N.Y.)
+INFO 2019-08-23 10:43:30,250   {'status': 'OK'},166,1427,Edizioni futuriste di Poesia
+INFO 2019-08-23 10:43:44,294   {'status': 'OK'},169,1428,Abdullah frères
+INFO 2019-08-23 10:43:58,024   {'status': 'OK'},170,1429,Apollon (Firm)
+INFO 2019-08-23 10:44:12,040   {'status': 'OK'},172,1430,Mandrágora (Group)
+INFO 2019-08-23 10:44:26,038   {'status': 'OK'},173,1431,Phaidon Press
+INFO 2019-08-23 10:44:40,047   {'status': 'OK'},174,1432,Barnard College
+INFO 2019-08-23 10:44:52,494   {'status': 'OK'},175,1433,Carnegie Museum of Art
+INFO 2019-08-23 10:45:08,088   {'status': 'OK'},178,1434,Columbia College (New York, N.Y.)
+INFO 2019-08-23 10:45:22,101   {'status': 'OK'},179,1435,Dorotheum (Firm)
+INFO 2019-08-23 10:45:36,107   {'status': 'OK'},180,1436,Galerie Meissner (Zurich, Switzerland)
+INFO 2019-08-23 10:45:50,108   {'status': 'OK'},182,1437,Heim Gallery
+INFO 2019-08-23 10:46:02,603   {'status': 'OK'},183,1438,Historians of Netherlandish Art
+INFO 2019-08-23 10:46:18,085   {'status': 'OK'},185,1439,National Gallery of Art (U.S.)
+INFO 2019-08-23 10:46:32,094   {'status': 'OK'},186,1440,Newhouse Galleries
+INFO 2019-08-23 10:46:46,100   {'status': 'OK'},187,1441,Norton Simon, Inc. Foundation 
+INFO 2019-08-23 10:47:00,531   {'status': 'OK'},188,1442,Pierpont Morgan Library
+INFO 2019-08-23 10:47:16,101   {'status': 'OK'},189,1443,Ponce Art Museum
+INFO 2019-08-23 10:47:30,079   {'status': 'OK'},190,1444,Princeton University Press
+INFO 2019-08-23 10:47:46,051   {'status': 'OK'},193,1445,Sotheby's (Firm)
+INFO 2019-08-23 10:48:00,180   {'status': 'OK'},194,1446,Sterling and Francine Clark Art Institute
+INFO 2019-08-23 10:48:14,249   {'status': 'OK'},195,1447,Williams College
+INFO 2019-08-23 10:48:28,189   {'status': 'OK'},204,1448,Something Else Press
+INFO 2019-08-23 10:48:42,249   {'status': 'OK'},205,1449,Unpublished Editions (Firm) 
+INFO 2019-08-23 10:49:00,251   {'status': 'OK'},206,1450,Field Museum of Natural History
+INFO 2019-08-23 10:49:12,776   {'status': 'OK'},207,1451,New York World's Fair (1939-1940)
+INFO 2019-08-23 10:49:30,067   {'status': 'OK'},209,1452,Armand Hammer Museum of Art and Cultural Center
+INFO 2019-08-23 10:49:44,240   {'status': 'OK'},210,1453,Art Institute of Chicago
+INFO 2019-08-23 10:49:58,102   {'status': 'OK'},211,1454,Fort Worth Art Center-Museum
+INFO 2019-08-23 10:50:14,030   {'status': 'OK'},213,1455,Los Angeles County Museum of Art
+INFO 2019-08-23 10:50:28,068   {'status': 'OK'},214,1456,San Francisco Museum of Modern Art
+INFO 2019-08-23 10:50:42,107   {'status': 'OK'},216,1457,University of California, Los Angeles. Oral History Program
+INFO 2019-08-23 10:50:56,079   {'status': 'OK'},218,1458,Miami International Airport
+INFO 2019-08-23 10:51:12,138   {'status': 'OK'},222,1459,Real Museo borbonico (Naples, Italy)
+INFO 2019-08-23 10:51:26,165   {'status': 'OK'},225,1460,Comédie-Italienne (Paris, France)
+INFO 2019-08-23 10:51:40,223   {'status': 'OK'},226,1461,Teatro della Pergola
+INFO 2019-08-23 10:51:54,217   {'status': 'OK'},227,1462,Teatro Farnese (Parma, Italy)
+INFO 2019-08-23 10:52:10,156   {'status': 'OK'},229,1463,Teatro regio (Parma, Italy)
+INFO 2019-08-23 10:52:24,205   {'status': 'OK'},230,1464,Théâtre-Italien (Paris, France)
+INFO 2019-08-23 10:52:38,235   {'status': 'OK'},232,1465,Wiener Kunstgewerbe-Schule
+INFO 2019-08-23 10:52:52,270   {'status': 'OK'},234,1466,Wiener Werkstätte
+INFO 2019-08-23 10:53:06,053   {'status': 'OK'},242,1467,Brücke (Artists' group)
+INFO 2019-08-23 10:53:18,498   {'status': 'OK'},243,1468,Neue Künstlervereinigung München
+INFO 2019-08-23 10:53:34,034   {'status': 'OK'},245,1469,Rossiĭskai︠a︡ akademii︠a︡ khudozhestvennykh nauk
+INFO 2019-08-23 10:53:48,183   {'status': 'OK'},246,1470,Germanisches Nationalmuseum Nürnberg
+INFO 2019-08-23 10:54:01,208   {'status': 'OK'},247,1471,Piper Verlag
+INFO 2019-08-23 10:54:14,215   {'status': 'OK'},249,1472,Sonderbund Westdeutscher Kunstfreunde und Künstler
+INFO 2019-08-23 10:54:28,211   {'status': 'OK'},252,1473,Kasmin Limited
+INFO 2019-08-23 10:54:42,231   {'status': 'OK'},253,1474,Bibliotheca Hertziana, Max-Planck-Institut
+INFO 2019-08-23 10:54:56,266   {'status': 'OK'},254,1475,Cleveland Museum of Art
+INFO 2019-08-23 10:55:12,045   {'status': 'OK'},255,1476,Chiesa della Martorana (Palermo, Italy)
+INFO 2019-08-23 10:55:26,078   {'status': 'OK'},256,1477,Duomo di Monreale
+INFO 2019-08-23 10:55:40,110   {'status': 'OK'},259,1478,Dumbarton Oaks
+INFO 2019-08-23 10:55:58,074   {'status': 'OK'},261,1479,Centro de Artes Visuales (Instituto Torcuato Di Tella)
+INFO 2019-08-23 10:56:12,060   {'status': 'OK'},262,1480,Bienal Internacional de São Paulo
+INFO 2019-08-23 10:56:26,207   {'status': 'OK'},263,1481,Jüdisches Museum im Berlin Museum
+INFO 2019-08-23 10:56:40,184   {'status': 'OK'},264,1482,VKhUTEMAS (Art school) 
+INFO 2019-08-23 10:56:56,218   {'status': 'OK'},265,1483,Bantam Books (Firm)
+INFO 2019-08-23 10:57:10,121   {'status': 'OK'},266,1484,Bundesarchiv (Germany)
+INFO 2019-08-23 10:57:24,262   {'status': 'OK'},267,1485,Deutsche Gesellschaft für Photographie
+INFO 2019-08-23 10:57:38,273   {'status': 'OK'},269,1486,Imperial War Museum (Great Britain)
+INFO 2019-08-23 10:57:52,113   {'status': 'OK'},270,1487,Landesbildstelle Berlin
+INFO 2019-08-23 10:58:06,193   {'status': 'OK'},271,1488,Macmillan Publishing Company
+INFO 2019-08-23 10:58:20,224   {'status': 'OK'},272,1489,Museum of Modern Art (New York, N.Y.)
+INFO 2019-08-23 10:58:34,254   {'status': 'OK'},273,1490,Simon and Schuster, inc.
+INFO 2019-08-23 10:58:48,173   {'status': 'OK'},274,1491,Staatsbibliothek zu Berlin—Preussischer Kulturbesitz
+INFO 2019-08-23 10:59:02,596   {'status': 'OK'},275,1492,Süddeutscher Verlag 
+INFO 2019-08-23 10:59:16,056   {'status': 'OK'},276,1493,Time-Life Books 
+INFO 2019-08-23 10:59:30,048   {'status': 'OK'},277,1494,Washington National Records Center (U.S.)
+INFO 2019-08-23 10:59:44,054   {'status': 'OK'},278,1495,Galerie Paul Maenz (Cologne, Germany)
+INFO 2019-08-23 10:59:56,508   {'status': 'OK'},280,1496,Endart (Group of artists) 
+INFO 2019-08-23 11:00:10,027   {'status': 'OK'},281,1497,Editions Sansot
+INFO 2019-08-23 11:00:24,195   {'status': 'OK'},287,1498,Liebig's Extract of Meat Company
+INFO 2019-08-23 11:00:40,229   {'status': 'OK'},291,1499,Friends of Photography
+INFO 2019-08-23 11:00:52,683   {'status': 'OK'},292,1500,George Eastman House
+INFO 2019-08-23 11:01:06,635   {'status': 'OK'},293,1501,Salzburg Seminar
+INFO 2019-08-23 11:01:19,093   {'status': 'OK'},295,1502,University of New Mexico
+INFO 2019-08-23 11:01:31,551   {'status': 'OK'},296,1503,American Oriental Society
+INFO 2019-08-23 11:01:44,030   {'status': 'OK'},297,1504,Alfred A. Knopf, Inc.
+INFO 2019-08-23 11:01:56,456   {'status': 'OK'},298,1505,Cornell University Press
+INFO 2019-08-23 11:02:08,945   {'status': 'OK'},299,1506,Pantheon Books
+INFO 2019-08-23 11:02:21,377   {'status': 'OK'},300,1507,Sansoni (Firm)
+INFO 2019-08-23 11:02:33,840   {'status': 'OK'},301,1508,University of California Press
+INFO 2019-08-23 11:02:46,265   {'status': 'OK'},302,1509,Tiffany and Company
+INFO 2019-08-23 11:02:58,712   {'status': 'OK'},303,1510,Architectural Association (Great Britain)
+INFO 2019-08-23 11:03:11,227   {'status': 'OK'},305,1511,Courtauld Institute of Art
+INFO 2019-08-23 11:03:23,663   {'status': 'OK'},306,1512,Gemäldegalerie (Dresden, Germany)
+INFO 2019-08-23 11:03:36,175   {'status': 'OK'},307,1513,Great Britain. Royal Fine Art Commission
+INFO 2019-08-23 11:03:48,596   {'status': 'OK'},308,1514,Jerusalem Committee
+INFO 2019-08-23 11:04:01,084   {'status': 'OK'},309,1515,Omega Workshops
+INFO 2019-08-23 11:04:13,550   {'status': 'OK'},310,1516,Penguin (Firm)
+INFO 2019-08-23 11:04:26,015   {'status': 'OK'},311,1517,University of Cambridge
+INFO 2019-08-23 11:04:38,476   {'status': 'OK'},312,1518,University of London
+INFO 2019-08-23 11:04:50,911   {'status': 'OK'},313,1519,University of Oxford
+INFO 2019-08-23 11:05:03,687   {'status': 'OK'},315,1520,Peggy Guggenheim Collection
+INFO 2019-08-23 11:05:18,080   {'status': 'OK'},316,1521,C.H. Boehringer Sohn
+INFO 2019-08-23 11:05:30,546   {'status': 'OK'},317,1522,Deutsche Spiegelglas A.G.
+INFO 2019-08-23 11:05:44,505   {'status': 'OK'},319,1523,Gesellschaft Deutscher Lichtbildner
+INFO 2019-08-23 11:05:58,044   {'status': 'OK'},321,1524,Museum Folkwang Essen
+INFO 2019-08-23 11:06:14,089   {'status': 'OK'},322,1525,Verlag Herder
+INFO 2019-08-23 11:06:28,165   {'status': 'OK'},324,1526,Deutsche Buch-Gemeinschaft
+INFO 2019-08-23 11:06:42,179   {'status': 'OK'},325,1527,Deutscher Werkbund Berlin
+INFO 2019-08-23 11:06:56,181   {'status': 'OK'},328,1528,Fagus-Werk (Alfeld, Lower Saxony, Germany)
+INFO 2019-08-23 11:07:12,242   {'status': 'OK'},329,1529,Focal Press
+INFO 2019-08-23 11:07:26,136   {'status': 'OK'},331,1530,Krupp Stahl AG. Werk (Rheinhausen, Duisburg, Germany)
+INFO 2019-08-23 11:07:44,084   {'status': 'OK'},335,1531,Photographische Gesellschaft in Wien
+INFO 2019-08-23 11:07:58,165   {'status': 'OK'},338,1532,Staatliche Kunstakademie Düsseldorf
+INFO 2019-08-23 11:08:14,239   {'status': 'OK'},339,1533,Sydslesvigs danske kunstforening
+INFO 2019-08-23 11:08:28,235   {'status': 'OK'},345,1534,United States. Works Progress Administration
+INFO 2019-08-23 11:08:40,702   {'status': 'OK'},346,1535,United States. Office of War Information 
+INFO 2019-08-23 11:08:54,062   {'status': 'OK'},347,1536,New York School of Art
+INFO 2019-08-23 11:09:08,163   {'status': 'OK'},352,1537,Schaeffer Galleries (New York, N.Y.)
+INFO 2019-08-23 11:09:22,169   {'status': 'OK'},354,1538,Teikoku Hoteru
+INFO 2019-08-23 11:09:36,178   {'status': 'OK'},356,1539,Taliesin Fellowship
+INFO 2019-08-23 11:09:52,183   {'status': 'OK'},357,1540,Unitarian Universalist Church in Oak Park (Oak Park, Ill.) 
+INFO 2019-08-23 11:10:06,141   {'status': 'OK'},359,1541,Annunciation Greek Orthodox Church (Milwaukee, Wis.)
+INFO 2019-08-23 11:10:20,204   {'status': 'OK'},361,1542,Wayfarers Chapel (Rancho Palos Verdes, Calif.) 
+INFO 2019-08-23 11:10:34,226   {'status': 'OK'},362,1543,Frank Lloyd Wright Foundation
+INFO 2019-08-23 11:10:50,212   {'status': 'OK'},363,1544,Sears, Roebuck and Company
+INFO 2019-08-23 11:11:08,283   {'status': 'OK'},366,1545,Case Study House No. 9 (Los Angeles, Calif.)
+INFO 2019-08-23 11:11:22,410   {'status': 'OK'},392,1546,Williams and Williams
+INFO 2019-08-23 11:11:38,259   {'status': 'OK'},398,1547,Société des artistes indépendants (Paris, France)
+INFO 2019-08-23 11:11:52,269   {'status': 'OK'},401,1548,Internationale situationniste
+INFO 2019-08-23 11:12:08,139   {'status': 'OK'},402,1549,Soviet Union—Red Army
+INFO 2019-08-23 11:12:22,331   {'status': 'OK'},406,1550,Committee to Defend America by Aiding the Allies
+INFO 2019-08-23 11:12:36,222   {'status': 'OK'},408,1551,Frick Collection
+INFO 2019-08-23 11:12:52,237   {'status': 'OK'},409,1552,Barnes Foundation
+INFO 2019-08-23 11:13:08,023   {'status': 'OK'},410,1553,M.H. De Young Memorial Museum 
+INFO 2019-08-23 11:13:22,170   {'status': 'OK'},413,1554,Barbizon House (London, England)
+INFO 2019-08-23 11:13:36,222   {'status': 'OK'},414,1555,French Gallery (London, England)
+INFO 2019-08-23 11:13:52,265   {'status': 'OK'},415,1556,Goupil Gallery
+INFO 2019-08-23 11:14:06,157   {'status': 'OK'},420,1557,Cine Club del Uruguay
+INFO 2019-08-23 11:14:20,184   {'status': 'OK'},421,1558,John Simon Guggenheim Memorial Foundation
+INFO 2019-08-23 11:14:34,218   {'status': 'OK'},422,1559,Taller Torres-García
+INFO 2019-08-23 11:14:50,227   {'status': 'OK'},425,1560,Gebr. Fretz (Firm)
+INFO 2019-08-23 11:15:02,813   {'status': 'OK'},426,1561,New Museum of Contemporary Art (New York, N.Y.)
+INFO 2019-08-23 11:15:16,082   {'status': 'OK'},427,1562,Whitney Museum of American Art
+INFO 2019-08-23 11:15:32,093   {'status': 'OK'},428,1563,Merce Cunningham Dance Company
+INFO 2019-08-23 11:15:48,104   {'status': 'OK'},429,1564,Museo Nacional de México
+INFO 2019-08-23 11:16:00,642   {'status': 'OK'},430,1565,Vienna International Exhibition (1873)
+INFO 2019-08-23 11:16:14,087   {'status': 'OK'},431,1566,Vizetelly and Company (1850-1855)
+INFO 2019-08-23 11:16:30,285   {'status': 'OK'},435,1567,Pagnerre (Firm) 
+INFO 2019-08-23 11:16:44,313   {'status': 'OK'},436,1568,VKhUTEIN (Art School) 
+INFO 2019-08-23 11:16:58,302   {'status': 'OK'},437,1569,International Congress for Modern Architecture
+INFO 2019-08-23 11:17:14,064   {'status': 'OK'},442,1570,Alfred Schmela Galerie
+INFO 2019-08-23 11:17:30,076   {'status': 'OK'},443,1571,Galleria dell'Ariete
+INFO 2019-08-23 11:17:44,126   {'status': 'OK'},451,1572,Harrison Price Company
+INFO 2019-08-23 11:18:00,127   {'status': 'OK'},452,1573,Texaco, inc.
+INFO 2019-08-23 11:18:14,066   {'status': 'OK'},453,1574,Pennzoil Company
+INFO 2019-08-23 11:18:28,088   {'status': 'OK'},454,1575,Skidmore College
+INFO 2019-08-23 11:18:42,139   {'status': 'OK'},455,1576,Hyde Collection Art Museum
+INFO 2019-08-23 11:18:56,179   {'status': 'OK'},463,1577,University of Southern California
+INFO 2019-08-23 11:19:10,282   {'status': 'OK'},467,1578,Denver Art Museum
+INFO 2019-08-23 11:19:26,088   {'status': 'OK'},481,1579,Museum Educational Site Licensing Project
+INFO 2019-08-23 11:19:42,113   {'status': 'OK'},482,1580,Andrew W. Mellon Foundation
+INFO 2019-08-23 11:19:54,574   {'status': 'OK'},483,1581,Library of Congress
+INFO 2019-08-23 11:20:12,100   {'status': 'OK'},484,1582,University of California, Los Angeles. Fowler Museum of Cultural History
+INFO 2019-08-23 11:20:28,116   {'status': 'OK'},485,1583,MUSE Film and Television
+INFO 2019-08-23 11:20:42,150   {'status': 'OK'},486,1584,Harvard University. Art Museums
+INFO 2019-08-23 11:20:56,146   {'status': 'OK'},487,1585,Museum of Fine Arts, Houston
+INFO 2019-08-23 11:21:08,743   {'status': 'OK'},488,1586,National Museum of American Art (U.S.)
+INFO 2019-08-23 11:21:24,440   {'status': 'OK'},489,1587,American University (Washington, D.C.)
+INFO 2019-08-23 11:21:40,227   {'status': 'OK'},491,1588,Cornell University
+INFO 2019-08-23 11:21:54,022   {'status': 'OK'},492,1589,University of Illinois at Urbana-Champaign
+INFO 2019-08-23 11:22:08,027   {'status': 'OK'},493,1590,University of Maryland at College Park
+INFO 2019-08-23 11:22:24,418   {'status': 'OK'},494,1591,University of Michigan
+INFO 2019-08-23 11:22:38,261   {'status': 'OK'},495,1592,University of Virginia
+INFO 2019-08-23 11:22:50,711   {'status': 'OK'},498,1593,Gruen Associates
+INFO 2019-08-23 11:23:03,520   {'status': 'OK'},503,1594,Maki and Associates
+INFO 2019-08-23 11:23:22,042   {'status': 'OK'},505,1595,Venturi Scott Brown and Associates
+INFO 2019-08-23 11:23:34,647   {'status': 'OK'},506,1596,Brown University. . Institute for Research in Information and Scholarship
+INFO 2019-08-23 11:23:50,227   {'status': 'OK'},513,1597,J. Paul Getty Trust. Public Affairs Department
+INFO 2019-08-23 11:24:02,727   {'status': 'OK'},520,1598,Long Beach Museum of Art
+INFO 2019-08-23 11:24:16,040   {'status': 'OK'},521,1599,Einsatzstab Reichsleiter Rosenberg für die Besetzten Gebiete
+INFO 2019-08-23 11:24:32,053   {'status': 'OK'},523,1600,Kunsthaus Lempertz
+INFO 2019-08-23 11:24:48,061   {'status': 'OK'},524,1601,Stuttgarter Kunstkabinett
+INFO 2019-08-23 11:25:01,082   {'status': 'OK'},525,1602,Verlag Das Beste GmbH
+INFO 2019-08-23 11:25:14,160   {'status': 'OK'},526,1603,Ernst Barlach Gesellschaft
+INFO 2019-08-23 11:25:28,203   {'status': 'OK'},529,1604,Galerie Fischer
+INFO 2019-08-23 11:25:42,217   {'status': 'OK'},530,1605,Woman's Building (Los Angeles, Calif.)
+INFO 2019-08-23 11:25:58,235   {'status': 'OK'},534,1606,Svenska institutet i Athen
+INFO 2019-08-23 11:26:12,278   {'status': 'OK'},548,1607,Guerrilla Girls (Group of artists)
+INFO 2019-08-23 11:26:26,474   {'status': 'OK'},549,1608,Studio International (Firm)
+INFO 2019-08-23 11:26:42,007   {'status': 'OK'},551,1609,Mouvement lettriste
+INFO 2019-08-23 11:26:56,039   {'status': 'OK'},552,1610,Kunstarchiv Arntz
+INFO 2019-08-23 11:27:08,733   {'status': 'OK'},554,1611,Getty Art History Information Program . Art and Architecture Thesaurus
+INFO 2019-08-23 11:27:22,205   {'status': 'OK'},555,1612,Répertoire international de la littérature de l’art
+INFO 2019-08-23 11:27:36,263   {'status': 'OK'},556,1613,Architectural Drawings Advisory Group
+INFO 2019-08-23 11:27:50,201   {'status': 'OK'},557,1614,Provenance Index of the Getty Art History Information Program
+INFO 2019-08-23 11:28:02,855   {'status': 'OK'},558,1615,Getty Provenance Index
+INFO 2019-08-23 11:28:16,304   {'status': 'OK'},559,1616,Census of Antique Works of Art and Architecture Known in the Renaissance (Project)
+INFO 2019-08-23 11:28:32,266   {'status': 'OK'},568,1617,Jan Baum Gallery
+INFO 2019-08-23 11:28:46,356   {'status': 'OK'},569,1618,Jan Baum-Iris Silverman Gallery
+INFO 2019-08-23 11:29:00,516   {'status': 'OK'},573,1619,Getty Information Institute. Vocabulary Program
+INFO 2019-08-23 11:29:14,290   {'status': 'OK'},582,1620,SubGenius Foundation
+INFO 2019-08-23 11:29:30,127   {'status': 'OK'},589,1621,Getty Art History Information Program. Vocabulary Coordination Group
+INFO 2019-08-23 11:29:46,115   {'status': 'OK'},590,1622,Bush House (London, England)
+INFO 2019-08-23 11:30:00,189   {'status': 'OK'},591,1623,Epinal American Cemetery (France)
+INFO 2019-08-23 11:30:14,070   {'status': 'OK'},597,1624,Negretti and Zambra
+INFO 2019-08-23 11:30:28,296   {'status': 'OK'},599,1625,Smith, Beck, and Beck
+INFO 2019-08-23 11:30:42,192   {'status': 'OK'},601,1626,California Institute of the Arts
+INFO 2019-08-23 11:30:58,295   {'status': 'OK'},603,1627,Ghémar Frères
+INFO 2019-08-23 11:31:10,822   {'status': 'OK'},613,1628,Museo Vostell de Malpartida de Cáceres
+INFO 2019-08-23 11:31:24,021   {'status': 'OK'},625,1629,J. Laurent y Cia (Madrid, Spain)
+INFO 2019-08-23 11:31:38,028   {'status': 'OK'},630,1630,Detroit Publishing Co.
+INFO 2019-08-23 11:31:54,034   {'status': 'OK'},632,1631,Reale Fotografia Giacomelli
+INFO 2019-08-23 11:32:08,021   {'status': 'OK'},634,1632,Libreria Spithöver
+INFO 2019-08-23 11:32:28,042   {'status': 'OK'},640,1633,American Academy in Rome
+INFO 2019-08-23 11:32:42,223   {'status': 'OK'},655,1634,Museo nazionale di Napoli
+INFO 2019-08-23 11:33:00,805   {'status': 'OK'},656,1635,Ethnikon Archaiologikon Mouseion (Greece)
+INFO 2019-08-23 11:33:13,742   {'status': 'OK'},657,1636,Galleria degli Uffizi
+INFO 2019-08-23 11:33:26,375   {'status': 'OK'},658,1637,Mouseio Akropolēs
+INFO 2019-08-23 11:33:42,104   {'status': 'OK'},663,1638,Kunsthandel P. de Boer
+INFO 2019-08-23 11:33:56,085   {'status': 'OK'},666,1639,American School of Classical Studies at Athens
+INFO 2019-08-23 11:34:10,540   {'status': 'OK'},667,1640,Bildarchiv Foto Marburg
+INFO 2019-08-23 11:34:24,261   {'status': 'OK'},669,1641,University of California, Los Angeles. Department of Classics
+INFO 2019-08-23 11:34:38,170   {'status': 'OK'},670,1642,Accademia di San Luca
+INFO 2019-08-23 11:34:56,106   {'status': 'OK'},671,1643,École nationale supérieure des beaux-arts (France)
+INFO 2019-08-23 11:35:10,419   {'status': 'OK'},672,1644,Victoria and Albert Museum
+INFO 2019-08-23 11:35:24,791   {'status': 'OK'},673,1645,Gosudarstvennyĭ Ėrmitazh (Russia)
+INFO 2019-08-23 11:35:38,318   {'status': 'OK'},676,1646,Congress of Racial Equality
+INFO 2019-08-23 11:35:52,036   {'status': 'OK'},677,1647,Black Panther Party
+INFO 2019-08-23 11:36:08,113   {'status': 'OK'},682,1648,Armory Center for the Arts
+INFO 2019-08-23 11:36:24,104   {'status': 'OK'},683,1649,Kölner Kunstmarkt
+INFO 2019-08-23 11:36:38,113   {'status': 'OK'},684,1650,Verein progressiver deutscher Kunsthändler
+INFO 2019-08-23 11:36:52,135   {'status': 'OK'},685,1651,Industrias Kaiser Argentina
+INFO 2019-08-23 11:37:06,227   {'status': 'OK'},686,1652,Wadsworth Atheneum
+INFO 2019-08-23 11:37:20,302   {'status': 'OK'},689,1653,Bienal Americana de Arte
+INFO 2019-08-23 11:37:34,323   {'status': 'OK'},694,1654,Biennale di Venezia (Venice, Italy)
+INFO 2019-08-23 11:37:50,280   {'status': 'OK'},695,1655,Galerie Maeght (Paris, France)
+INFO 2019-08-23 11:38:02,817   {'status': 'OK'},696,1656,Galleria nazionale d'arte moderna (Italy) 
+INFO 2019-08-23 11:38:15,277   {'status': 'OK'},702,1657,Rhomaides frères
+INFO 2019-08-23 11:38:30,053   {'status': 'OK'},711,1658,Cyprus. Tmēma Archaiotētōn
+INFO 2019-08-23 11:38:44,241   {'status': 'OK'},718,1659,Patricia Faure Gallery
+INFO 2019-08-23 11:39:00,074   {'status': 'OK'},722,1660,Pomona College (Claremont, Calif.). Museum of Art
+INFO 2019-08-23 11:39:14,153   {'status': 'OK'},723,1661,Bisson frères
+INFO 2019-08-23 11:39:28,143   {'status': 'OK'},735,1662,American Museum of Ceramic Art
+INFO 2019-08-23 11:39:42,113   {'status': 'OK'},736,1663,American Academy of Arts and Sciences
+INFO 2019-08-23 11:39:58,319   {'status': 'OK'},738,1664,UCLA Film and Television Archive
+INFO 2019-08-23 11:40:18,075   {'status': 'OK'},739,1665,Ruth Chandler Williamson Gallery
+INFO 2019-08-23 11:40:32,138   {'status': 'OK'},740,1666,Soho 20 (Gallery)
+INFO 2019-08-23 11:40:46,215   {'status': 'OK'},741,1667,A.I.R. Gallery (New York, N.Y.)
+INFO 2019-08-23 11:41:00,209   {'status': 'OK'},742,1668,Alexander Construction Company
+INFO 2019-08-23 11:41:14,191   {'status': 'OK'},745,1669,USC Fisher Museum of Art
+INFO 2019-08-23 11:41:30,273   {'status': 'OK'},746,1670,Los Angeles Center for Photographic Studies
+INFO 2019-08-23 11:41:44,391   {'status': 'OK'},748,1671,Japanese American National Museum (Los Angeles, Calif.)
+INFO 2019-08-23 11:41:58,221   {'status': 'OK'},749,1672,Otis College of Art and Design
+INFO 2019-08-23 11:42:12,574   {'status': 'OK'},750,1673,Vincent Price Art Museum
+INFO 2019-08-23 11:42:26,020   {'status': 'OK'},751,1674,Los Angeles (Calif.). Cultural Affairs Department
+INFO 2019-08-23 11:42:40,031   {'status': 'OK'},752,1675,Los Angeles Municipal Art Gallery
+INFO 2019-08-23 11:42:56,027   {'status': 'OK'},753,1676,Watts Towers Art Center
+INFO 2019-08-23 11:43:12,028   {'status': 'OK'},756,1677,Lunn Gallery
+INFO 2019-08-23 11:43:26,058   {'status': 'OK'},757,1678,Lunn Ltd
+INFO 2019-08-23 11:43:42,052   {'status': 'OK'},758,1679,Graphics International Ltd
+INFO 2019-08-23 11:43:56,147   {'status': 'OK'},765,1680,Los Angeles Contemporary Exhibitions (Gallery)
+INFO 2019-08-23 11:44:12,039   {'status': 'OK'},769,1681,L.A. as Subject (Project)
+INFO 2019-08-23 11:44:26,127   {'status': 'OK'},771,1682,Kypriakon Mouseion (Cyprus)
+INFO 2019-08-23 11:44:40,149   {'status': 'OK'},772,1683,California African-American Museum
+INFO 2019-08-23 11:44:54,243   {'status': 'OK'},775,1684,P.A.P. Kunstagentur (Firm)
+INFO 2019-08-23 11:45:10,294   {'status': 'OK'},776,1685,Aktions-Analytische Organisation
+INFO 2019-08-23 11:45:24,097   {'status': 'OK'},777,1686,Friedrichshof (Zurndorf, Austria)
+INFO 2019-08-23 11:45:38,251   {'status': 'OK'},778,1687,Germany. Reichsarbeitsdienst
+INFO 2019-08-23 11:45:54,195   {'status': 'OK'},779,1688,Andalusia (Spain). Consejería de Cultura
+INFO 2019-08-23 11:46:08,155   {'status': 'OK'},783,1689,Festival internazionale del film di Locarno
+INFO 2019-08-23 11:46:22,123   {'status': 'OK'},785,1690,Phébus (Firm)
+INFO 2019-08-23 11:46:38,224   {'status': 'OK'},786,1691,Süleymaniye Camii (Istanbul, Turkey)
+INFO 2019-08-23 11:46:52,241   {'status': 'OK'},787,1692,Sultanahmet Camii (Istanbul, Turkey)
+INFO 2019-08-23 11:47:08,087   {'status': 'OK'},788,1693,Topkapı Sarayı Müzesi
+INFO 2019-08-23 11:47:22,140   {'status': 'OK'},789,1694,Dolmabahçe Sarayı
+INFO 2019-08-23 11:47:36,217   {'status': 'OK'},795,1695,Cathédrale de Chartres
+INFO 2019-08-23 11:47:52,210   {'status': 'OK'},805,1654,Biennale di Venezia
+INFO 2019-08-23 11:48:08,222   {'status': 'OK'},808,1696,Bibliothèque nationale de France
+INFO 2019-08-23 11:48:22,202   {'status': 'OK'},809,1697,Institut de recherche et d'histoire des textes (France)
+INFO 2019-08-23 11:48:36,299   {'status': 'OK'},810,1698,Národní muzeum v Praze. Knihovna
+INFO 2019-08-23 11:48:52,021   {'status': 'OK'},811,1699,Rossiĭskai︠a︡ akademii︠a︡ nauk. Biblioteka
+INFO 2019-08-23 11:49:04,552   {'status': 'OK'},813,1700,Umĕleckoprůmyslové muzeum v Praze
+INFO 2019-08-23 11:49:18,496   {'status': 'OK'},815,1701,Unesco
+INFO 2019-08-23 11:49:32,250   {'status': 'OK'},816,1702,Organization of World Heritage Cities
+INFO 2019-08-23 11:49:46,123   {'status': 'OK'},817,1703,Gemini G.E.L. (Firm)
+INFO 2019-08-23 11:50:00,092   {'status': 'OK'},819,1704,Millers Falls Company
+INFO 2019-08-23 11:50:18,046   {'status': 'OK'},820,1705,Four Seasons (Restaurant)
+INFO 2019-08-23 11:50:34,057   {'status': 'OK'},822,1706,Museo del Templo Mayor (Mexico City, Mexico)
+INFO 2019-08-23 11:50:48,158   {'status': 'OK'},836,1707,No Age (Musical group)
+INFO 2019-08-23 11:51:01,020   {'status': 'OK'},865,1708,Wurdeman and Becket
+INFO 2019-08-23 11:51:14,163   {'status': 'OK'},866,1709,Welton Becket and Associates
+INFO 2019-08-23 11:51:28,192   {'status': 'OK'},876,1710,Kākh-i Gulistān (Tehran, Iran)
+INFO 2019-08-23 11:51:42,186   {'status': 'OK'},878,1711,American Federation of Arts
+INFO 2019-08-23 11:51:56,343   {'status': 'OK'},882,1712,Kunst.Halle.Krems
+INFO 2019-08-23 11:52:12,119   {'status': 'OK'},883,1713,Fotomuseum Winterthur
+INFO 2019-08-23 11:52:26,232   {'status': 'OK'},886,1714,KPMG LLP (U.S.)
+INFO 2019-08-23 11:52:40,319   {'status': 'OK'},891,1715,Fondazione Memmo (Italy)
+INFO 2019-08-23 11:52:54,322   {'status': 'OK'},895,1716,Royal Academy of Arts (Great Britain)
+INFO 2019-08-23 11:53:08,753   {'status': 'OK'},896,1717,Kitchen Center for Video, Music, Dance, Performance, Film, and Literature (New York, N.Y.)
+INFO 2019-08-23 11:53:22,027   {'status': 'OK'},899,1718,Cotsen Foundation
+INFO 2019-08-23 11:53:34,497   {'status': 'OK'},900,1719,White Studio (New York, N.Y.)
+INFO 2019-08-23 11:53:48,049   {'status': 'OK'},901,1720,Baker’s Art Gallery
+INFO 2019-08-23 11:54:00,562   {'status': 'OK'},902,1721,Elite (Photographic firm)
+INFO 2019-08-23 11:54:13,461   {'status': 'OK'},903,1722,Apeda Studio (New York, N.Y.)
+INFO 2019-08-23 11:54:28,150   {'status': 'OK'},906,1723,Academia Imperial das Bellas Artes (Brazil)
+INFO 2019-08-23 11:54:42,188   {'status': 'OK'},917,1723,Academia Imperial das Bellas Artes (Brazil)
+INFO 2019-08-23 11:54:56,244   {'status': 'OK'},924,1405,Duveen Brothers
+INFO 2019-08-23 11:55:12,271   {'status': 'OK'},929,1408,Thos. Agnew and Sons Ltd.
+INFO 2019-08-23 11:55:34,073   {'status': 'OK'},930,1406,F. Kleinberger Galleries (New York, N.Y.)
+INFO 2019-08-23 11:55:48,347   {'status': 'OK'},931,1407,Wildenstein and Company (New York, N.Y.)
+INFO 2019-08-23 11:56:02,785   {'status': 'OK'},937,1724,Overseas Missionary Fellowship
+INFO 2019-08-23 11:56:16,276   {'status': 'OK'},938,1725,Tian Tan (Beijing, China)
+INFO 2019-08-23 11:56:40,081   {'status': 'OK'},940,1726,United States. National Park Service
+INFO 2019-08-23 11:56:54,134   {'status': 'OK'},953,1727,Dépôt de la guerre (France)
+INFO 2019-08-23 11:57:08,431   {'status': 'OK'},954,1728,Malo frères
+INFO 2019-08-23 11:57:22,110   {'status': 'OK'},1007,1602,Verlag Das Beste GmbH
+INFO 2019-08-23 11:57:36,020   {'status': 'OK'},1008,1601,Stuttgarter Kunstkabinett
+INFO 2019-08-23 11:57:48,450   {'status': 'OK'},1010,1600,Kunsthaus Lempertz
+INFO 2019-08-23 11:58:02,712   {'status': 'OK'},1012,1603,Ernst Barlach Gesellschaft
+INFO 2019-08-23 11:58:16,341   {'status': 'OK'},1013,1604,Galerie Fischer
+INFO 2019-08-23 11:58:30,122   {'status': 'OK'},1014,1599,Einsatzstab Reichsleiter Rosenberg für die Besetzten Gebiete
+INFO 2019-08-23 11:58:44,204   {'status': 'OK'},1015,1410,Deutscher Werkbund
+INFO 2019-08-23 11:58:58,198   {'status': 'OK'},1016,1610,Kunstarchiv Arntz
+INFO 2019-08-23 11:59:14,434   {'status': 'OK'},1024,1626,California Institute of the Arts
+INFO 2019-08-23 11:59:28,773   {'status': 'OK'},1025,1372,Henry E. Huntington Library and Art Gallery
+INFO 2019-08-23 11:59:41,235   {'status': 'OK'},1026,1673,Vincent Price Art Museum
+INFO 2019-08-23 11:59:53,714   {'status': 'OK'},1027,1669,USC Fisher Museum of Art
+INFO 2019-08-23 12:00:06,527   {'status': 'OK'},1028,1683,California African-American Museum
+INFO 2019-08-23 12:00:18,990   {'status': 'OK'},1029,1664,UCLA Film and Television Archive
+INFO 2019-08-23 12:00:31,490   {'status': 'OK'},1030,1455,Los Angeles County Museum of Art
+INFO 2019-08-23 12:00:43,938   {'status': 'OK'},1032,1680,Los Angeles Contemporary Exhibitions (Gallery)
+INFO 2019-08-23 12:00:56,430   {'status': 'OK'},1033,1665,Ruth Chandler Williamson Gallery
+INFO 2019-08-23 12:01:09,037   {'status': 'OK'},1034,1674,Los Angeles (Calif.). Cultural Affairs Department
+INFO 2019-08-23 12:01:21,501   {'status': 'OK'},1035,1452,Armand Hammer Museum of Art and Cultural Center
+INFO 2019-08-23 12:01:33,989   {'status': 'OK'},1036,1648,Armory Center for the Arts
+INFO 2019-08-23 12:01:46,463   {'status': 'OK'},1037,1671,Japanese American National Museum (Los Angeles, Calif.)
+INFO 2019-08-23 12:01:58,902   {'status': 'OK'},1038,1662,American Museum of Ceramic Art
+INFO 2019-08-23 12:02:11,408   {'status': 'OK'},1039,1672,Otis College of Art and Design
+INFO 2019-08-23 12:02:23,842   {'status': 'OK'},1041,1729,Orange County Museum of Art (Calif.)
+INFO 2019-08-23 12:02:36,331   {'status': 'OK'},1043,1660,Pomona College (Claremont, Calif.). Museum of Art
+INFO 2019-08-23 12:02:48,768   {'status': 'OK'},1064,1690,Phébus (Firm)
+INFO 2019-08-23 12:03:01,251   {'status': 'OK'},1067,1429,Apollon (Firm)
+INFO 2019-08-23 12:03:13,743   {'status': 'OK'},1068,1692,Sultanahmet Camii (Istanbul, Turkey)
+INFO 2019-08-23 12:03:26,221   {'status': 'OK'},1069,1694,Dolmabahçe Sarayı
+INFO 2019-08-23 12:03:38,714   {'status': 'OK'},1070,1691,Süleymaniye Camii (Istanbul, Turkey)
+INFO 2019-08-23 12:03:51,149   {'status': 'OK'},1072,1693,Topkapı Sarayı Müzesi
+INFO 2019-08-23 12:04:03,658   {'status': 'OK'},1073,1414,Ayasofya Müzesi
+INFO 2019-08-23 12:04:16,113   {'status': 'OK'},1076,1730,GAP, Inc.
+INFO 2019-08-23 12:04:28,548   {'status': 'OK'},1077,1731,Nazraeli Press
+INFO 2019-08-23 12:04:41,047   {'status': 'OK'},764,1733,Patrick Painter Inc
+INFO 2019-08-23 12:04:53,542   {'status': 'OK'},60,1734,London Stereoscopic Company
+INFO 2019-08-23 12:05:06,065   {'status': 'OK'},98,1735,Exposition universelle internationale de 1900 (Paris, France)
+INFO 2019-08-23 12:05:18,559   {'status': 'OK'},825,1736,Exposition universelle de 1867 à Paris
+INFO 2019-08-23 12:05:31,036   {'status': 'OK'},838,1737,Exposition universelle de Paris en 1855
+INFO 2019-08-23 12:05:43,526   {'status': 'OK'},847,1738,American Stereoscopic Company
+INFO 2019-08-23 12:05:55,988   {'status': 'OK'},849,1739, H.C. White Co.
+INFO 2019-08-23 12:06:08,483   {'status': 'OK'},851,1740,Stereo-Travel Co.
+INFO 2019-08-23 12:06:20,919   {'status': 'OK'},852,1741,Universal Photo Art Co.
+INFO 2019-08-23 12:06:33,378   {'status': 'OK'},853,1742,Universal Stereoscopic View Co.
+INFO 2019-08-23 12:06:45,902   {'status': 'OK'},855,1743,Léon et Lévy
+INFO 2019-08-23 12:06:58,359   {'status': 'OK'},858,1744,B.W. Kilburn Company
+INFO 2019-08-23 12:07:10,845   {'status': 'OK'},1055,1745,Poetry Society of America
+INFO 2019-08-23 12:07:23,294   {'status': 'OK'},1056,1746,Los Angeles County Metropolitan Transportation Authority
+INFO 2019-08-23 12:07:35,762   {'status': 'OK'},1057,1747,Santa Monica (Calif.). Arts Commission
+INFO 2019-08-23 12:07:48,231   {'status': 'OK'},1058,1748,Occidental College
+INFO 2019-08-23 12:08:00,739   {'status': 'OK'},1059,1749,Friends of the Los Angeles River
+INFO 2019-08-23 12:08:13,170   {'status': 'OK'},792,1750,Naropa Institute
+INFO 2019-08-23 12:08:25,603   {'status': 'OK'},1060,1751,Beyond Baroque Literary Arts Center
+INFO 2019-08-23 12:08:38,368   {'status': 'OK'},1075,1717,Kitchen Center for Video, Music, Dance, Performance, Film, and Literature (New York, N.Y.)
+INFO 2019-08-23 12:08:50,818   {'status': 'OK'},197,1752,Copley Galleries
+INFO 2019-08-23 12:09:03,304   {'status': 'OK'},198,1753,Galleria del naviglio (Milan, Italy)
+INFO 2019-08-23 12:09:18,073   {'status': 'OK'},199,1754,Loudmer-Poulain (Firm)
+INFO 2019-08-23 12:09:32,053   {'status': 'OK'},200,1755,Hôtel Drouot
+INFO 2019-08-23 12:09:46,210   {'status': 'OK'},201,1756,Mannheimer Kunstverein
+INFO 2019-08-23 12:10:00,771   {'status': 'OK'},63,1757,International Design Conference in Aspen
+INFO 2019-08-23 12:10:14,234   {'status': 'OK'},806,1758,Städtisches Moritzburg-Museum.
+INFO 2019-08-23 12:10:28,253   {'status': 'OK'},807,1759,National-Galerie (Germany).
+INFO 2019-08-23 12:10:42,294   {'status': 'OK'},353,1760,Hollyhock House (Hollywood, Los Angeles, Calif.)
+INFO 2019-08-23 12:10:56,170   {'status': 'OK'},360,1761,Solomon R. Guggenheim Museum
+INFO 2019-08-23 12:11:10,143   {'status': 'OK'},369,1762,Angels Flight (Railway)
+INFO 2019-08-23 12:11:24,185   {'status': 'OK'},370,1763,California Club (Los Angeles, Calif.)
+INFO 2019-08-23 12:11:38,153   {'status': 'OK'},372,1764,Bullock's Wilshire (Department store)
+INFO 2019-08-23 12:11:52,285   {'status': 'OK'},373,1765,Chinese Theatre (Los Angeles, Calif.)
+INFO 2019-08-23 12:12:06,339   {'status': 'OK'},375,1766,Los Angeles (Calif.). Department of Water and Power
+INFO 2019-08-23 12:12:22,027   {'status': 'OK'},376,1767,Racquet Club (Palm Springs, Calif.)
+INFO 2019-08-23 12:12:46,097   {'status': 'OK'},377,1768,Palm Springs Desert Museum
+INFO 2019-08-23 12:13:03,515   {'status': 'OK'},378,1769,Beverly Hills Hotel
+INFO 2019-08-23 12:13:16,197   {'status': 'OK'},382,1770,Freeman House (Hollywood, Los Angeles, Calif.)
+INFO 2019-08-23 12:13:28,635   {'status': 'OK'},383,1771,Museo Rufino Tamayo
+INFO 2019-08-23 12:13:42,085   {'status': 'OK'},384,1772,Albert C. Martin and Associates
+INFO 2019-08-23 12:13:56,106   {'status': 'OK'},397,1773,Wurster, Bernardi, and Emmons
+INFO 2019-08-23 12:14:14,055   {'status': 'OK'},870,1545,Case Study House No. 9 (Los Angeles, Calif.)
+INFO 2019-08-23 12:14:30,046   {'status': 'OK'},871,1542,Wayfarers Chapel (Rancho Palos Verdes, Calif.)
+INFO 2019-08-23 12:14:44,036   {'status': 'OK'},872,1546,Williams and Williams.
+INFO 2019-08-23 12:14:56,562   {'status': 'OK'},593,1774,Courret Hermanos
+INFO 2019-08-23 12:15:14,068   {'status': 'OK'},830,1775,Catedral de Arequipa
+INFO 2019-08-23 12:15:28,036   {'status': 'OK'},831,1776,Catedral de Lima
+INFO 2019-08-23 12:15:42,080   {'status': 'OK'},1215,1777,Long hua si (Shanghai, China)
+INFO 2019-08-23 12:15:56,101   {'status': 'OK'},1221,1778,Getty Foundation
+INFO 2019-08-23 12:16:10,084   {'status': 'OK'},517,1779,J. Paul Getty Museum. Publications
+INFO 2019-08-23 12:16:24,043   {'status': 'OK'},459,1780,J. Paul Getty Museum. Department of Manuscripts
+INFO 2019-08-23 12:16:38,158   {'status': 'OK'},72,1781,University of California, Los Angeles
+INFO 2019-08-23 12:16:54,186   {'status': 'OK'},440,1782,Karl-Ernst-Osthaus-Museum
+INFO 2019-08-23 12:17:10,131   {'status': 'OK'},441,1783,Hamilton College (Clinton, N.Y.)
+INFO 2019-08-23 12:17:24,144   {'status': 'OK'},716,1729,Orange County Museum of Art (Calif.)
+INFO 2019-08-23 12:17:38,196   {'status': 'OK'},714,1784,Rugby School
+INFO 2019-08-23 12:17:52,199   {'status': 'OK'},22,1785,Getty Research Institute. Research Library
+INFO 2019-08-23 12:18:06,236   {'status': 'OK'},349,1786,Artists Space (Gallery)
+INFO 2019-08-23 12:18:20,215   {'status': 'OK'},350,1787,National Endowment for the Arts
+INFO 2019-08-23 12:18:34,240   {'status': 'OK'},351,1788,Marie Walsh Sharpe Art Foundation
+INFO 2019-08-23 12:18:48,004   {'status': 'OK'},532,1789,Carlhian (Firm)
+INFO 2019-08-23 12:19:01,027   {'status': 'OK'},850,1790,Keystone View Company
+INFO 2019-08-23 12:19:14,157   {'status': 'OK'},1066,1428,Abdullah frères
+INFO 2019-08-23 12:19:28,147   {'status': 'OK'},580,1791,Ferus Gallery (Los Angeles, Calif.)
+INFO 2019-08-23 12:19:42,144   {'status': 'OK'},1086,1792,Maison Bonfils (Beirut, Lebanon)
+INFO 2019-08-23 12:19:56,187   {'status': 'OK'},1232,1784,Rugby School
+INFO 2019-08-23 12:20:18,354   {'status': 'OK'},341,1793,Black Mountain College (Black Mountain, N.C.)
+INFO 2019-08-23 12:20:32,255   {'status': 'OK'},342,1794,Haystack Mountain School of Crafts
+INFO 2019-08-23 12:20:46,245   {'status': 'OK'},715,1795,Museum of Contemporary Art (Los Angeles, Calif.) 
+INFO 2019-08-23 12:21:00,408   {'status': 'OK'},343,1796,C.G. Jung Foundation for Analytical Psychology
+INFO 2019-08-23 12:21:14,245   {'status': 'OK'},512,1797,J. Paul Getty Museum. Department of Photographs
+INFO 2019-08-23 12:21:28,053   {'status': 'OK'},1226,1798, France. Armée. Armée d’Afrique
+INFO 2019-08-23 12:21:42,201   {'status': 'OK'},1227,1799,Muséum national d’histoire naturelle (France)
+INFO 2019-08-23 12:21:58,068   {'status': 'OK'},1228,1800,American Baptist Mission Press (Burma)
+INFO 2019-08-23 12:22:12,100   {'status': 'OK'},660,1801,Douwes Fine Art Gallery (London, England)
+INFO 2019-08-23 12:22:28,079   {'status': 'OK'},662,1802,David Koetser Gallery
+INFO 2019-08-23 12:22:42,099   {'status': 'OK'},514,1803,Hollywood Bowl (Los Angeles, Calif.)
+INFO 2019-08-23 12:22:56,074   {'status': 'OK'},1052,1689,Festival internazionale del film di Locarno
+INFO 2019-08-23 12:23:12,104   {'status': 'OK'},692,1804,Pacific Standard Time (Project)
+INFO 2019-08-23 12:23:26,244   {'status': 'OK'},1053,1654,Biennale di Venezia
+INFO 2019-08-23 12:23:40,197   {'status': 'OK'},1054,1654,Biennale di Venezia (Venice, Italy)
+INFO 2019-08-23 12:23:54,018   {'status': 'OK'},54,1805,Neurdein frères
+INFO 2019-08-23 12:24:08,060   {'status': 'OK'},595,1806,Fratelli Alinari
+INFO 2019-08-23 12:24:22,026   {'status': 'OK'},927,1807,Getty Conservation Institute
+INFO 2019-08-23 12:24:36,035   {'status': 'OK'},236,1808,Coum Transmissions (Musical group) 
+INFO 2019-08-23 12:24:50,123   {'status': 'OK'},237,1809,Franklin Furnace (Archive)
+INFO 2019-08-23 12:25:02,644   {'status': 'OK'},238,1810,Institute for Art and Urban Resources
+INFO 2019-08-23 12:25:16,018   {'status': 'OK'},239,1717,Kitchen Center for Video, Music, Dance, Performance, Film, and Literature (New York, N.Y.) 
+INFO 2019-08-23 12:25:32,016   {'status': 'OK'},240,1811,Leo Castelli Gallery
+INFO 2019-08-23 12:25:44,487   {'status': 'OK'},932,1785,Getty Research Institute. Research Library
+INFO 2019-08-23 12:26:01,093   {'status': 'OK'},578,1812,Getty Conservation Institute. Scientific Program
+INFO 2019-08-23 12:26:14,103   {'status': 'OK'},743,1813,Dwan Gallery (New York, N.Y.)
+INFO 2019-08-23 12:26:30,127   {'status': 'OK'},744,1814,Dwan Gallery (Los Angeles, Calif.)
+INFO 2019-08-23 12:26:50,144   {'status': 'OK'},1238,1815,Los Angeles County Economic Development Corporation
+INFO 2019-08-23 12:27:02,628   {'status': 'OK'},1247,1816,Ruwanweliseya (Anuradhapura, Sri Lanka)
+INFO 2019-08-23 12:27:16,042   {'status': 'OK'},536,1817,J. Paul Getty Museum. Education Department
+INFO 2019-08-23 12:27:30,128   {'status': 'OK'},762,1818,Knoedler Kasmin Limited
+INFO 2019-08-23 12:27:44,003   {'status': 'OK'},1003,1473,Kasmin Limited
+INFO 2019-08-23 12:28:00,298   {'status': 'OK'},202,1819,Sidney Janis Gallery
+INFO 2019-08-23 12:28:14,135   {'status': 'OK'},833,1820,Reuben Gallery
+INFO 2019-08-23 12:28:28,214   {'status': 'OK'},1022,1778,Getty Foundation
+INFO 2019-08-23 12:28:42,243   {'status': 'OK'},1023,1804,Pacific Standard Time (Project)
+INFO 2019-08-23 12:28:56,052   {'status': 'OK'},1261,1801,Douwes Fine Art Gallery (London, England)
+INFO 2019-08-23 12:29:08,512   {'status': 'OK'},1262,1802,David Koetser Gallery
+INFO 2019-08-23 12:29:20,947   {'status': 'OK'},1269,1524,Museum Folkwang Essen
+INFO 2019-08-23 12:29:33,376   {'status': 'OK'},1271,1821,Van Diemen-Lilienfeld Galleries
+INFO 2019-08-23 12:29:45,817   {'status': 'OK'},1272,1822,Kunstmuseum Bern
+INFO 2019-08-23 12:29:58,220   {'status': 'OK'},1274,1823,Graphische Sammlung Albertina
+INFO 2019-08-23 12:30:10,856   {'status': 'OK'},1240,1824,Coracle Press
+INFO 2019-08-23 12:30:23,323   {'status': 'OK'},1241,1809,Franklin Furnace (Archive)
+INFO 2019-08-23 12:30:35,792   {'status': 'OK'},1242,1808,Coum Transmissions (Musical group)
+INFO 2019-08-23 12:30:48,227   {'status': 'OK'},1243,1810,Institute for Art and Urban Resources
+INFO 2019-08-23 12:31:01,055   {'status': 'OK'},571,1825,Svenska Cypernexpeditionen (1927-1931)
+INFO 2019-08-23 12:31:14,191   {'status': 'OK'},1244,1811,Leo Castelli Gallery
+INFO 2019-08-23 12:31:28,227   {'status': 'OK'},1248,1826,Experiments in Art and Technology (Organization)
+INFO 2019-08-23 12:31:44,024   {'status': 'OK'},1250,1827,Expo '70 (Osaka, Japan)
+INFO 2019-08-23 12:31:58,037   {'status': 'OK'},1276,1811,Leo Castelli Gallery
+INFO 2019-08-23 12:32:12,187   {'status': 'OK'},184,1828,Metropolitan Museum of Art (New York, N.Y.)
+INFO 2019-08-23 12:32:26,263   {'status': 'OK'},490,1829,Columbia University
+INFO 2019-08-23 12:32:40,357   {'status': 'OK'},510,1830,Pratt Institute
+INFO 2019-08-23 12:32:56,353   {'status': 'OK'},704,1831,Program for Art on Film (New York, N.Y.)
+INFO 2019-08-23 12:33:10,309   {'status': 'OK'},457,1832,International Council of Monuments and Sites
+INFO 2019-08-23 12:33:24,261   {'status': 'OK'},458,1833,International Committee of Architectural Photogrammetry
+INFO 2019-08-23 12:33:38,212   {'status': 'OK'},509,1831,Program for Art on Film (New York, N.Y.)
+INFO 2019-08-23 12:33:54,106   {'status': 'OK'},665,1834,Rheinisches Bildarchiv
+INFO 2019-08-23 12:34:08,226   {'status': 'OK'},1019,1835,Getty Research Institute
+INFO 2019-08-23 12:34:22,241   {'status': 'OK'},1278,1834,Rheinisches Bildarchiv
+INFO 2019-08-23 12:34:38,024   {'status': 'OK'},235,1824,Coracle Press
+INFO 2019-08-23 12:34:54,088   {'status': 'OK'},545,1836,Tarasque Press
+INFO 2019-08-23 12:35:08,037   {'status': 'OK'},547,1837,Victoria Miro Gallery
+INFO 2019-08-23 12:35:22,110   {'status': 'OK'},600,1838,Martha Jackson Gallery
+INFO 2019-08-23 12:35:36,130   {'status': 'OK'},690,1839,Lapis Press
+INFO 2019-08-23 12:35:50,215   {'status': 'OK'},860,1840,Galerie J (Paris, France)
+INFO 2019-08-23 12:36:02,789   {'status': 'OK'},448,1841,J. Paul Getty Museum. Department of Antiquities
+INFO 2019-08-23 12:36:18,088   {'status': 'OK'},646,1842,Getty Oil Company
+INFO 2019-08-23 12:36:34,080   {'status': 'OK'},678,1843,Gallery 669
+INFO 2019-08-23 12:36:48,038   {'status': 'OK'},679,1844,Mizuno Gallery
+INFO 2019-08-23 12:37:01,053   {'status': 'OK'},798,1845,New York Times Company
+INFO 2019-08-23 12:37:14,183   {'status': 'OK'},799,1846,Wall Street Journal (Firm)
+INFO 2019-08-23 12:37:28,219   {'status': 'OK'},13,1847,Machado and Silvetti Associates, Inc
+INFO 2019-08-23 12:37:42,033   {'status': 'OK'},6,1848,Getty Center for the History of Art and the Humanities
+INFO 2019-08-23 12:37:58,035   {'status': 'OK'},7,1849,J. Paul Getty Trust
+INFO 2019-08-23 12:38:12,009   {'status': 'OK'},8,1850,Getty Information Institute
+INFO 2019-08-23 12:38:26,030   {'status': 'OK'},15,1851,Getty Education Institute for the Arts
+INFO 2019-08-23 12:38:40,124   {'status': 'OK'},479,1852,Getty Center for Education in the Arts
+INFO 2019-08-23 12:38:54,130   {'status': 'OK'},480,1853,Getty Art History Information Program
+INFO 2019-08-23 12:39:08,268   {'status': 'OK'},566,1854,Getty Research Institute for the History of Art and the Humanities
+INFO 2019-08-23 12:39:22,257   {'status': 'OK'},705,1855,Housing Authority of the City of Los Angeles, California
+INFO 2019-08-23 12:39:36,240   {'status': 'OK'},407,1856,Detroit Institute of Arts
+INFO 2019-08-23 12:39:54,074   {'status': 'OK'},411,1857,Toledo Museum of Art
+INFO 2019-08-23 12:40:08,079   {'status': 'OK'},724,1858,Julius Böhler (Firm)
+INFO 2019-08-23 12:40:22,075   {'status': 'OK'},725,1859,Stichting Nederlands Kunstbezit
+INFO 2019-08-23 12:40:36,158   {'status': 'OK'},726,1860,Smith College. Museum of Art
+INFO 2019-08-23 12:40:50,179   {'status': 'OK'},727,1861,Cranbrook School (Bloomfield Hills, Mich.) 
+INFO 2019-08-23 12:41:06,022   {'status': 'OK'},728,1862,Allen Memorial Art Museum
+INFO 2019-08-23 12:41:22,033   {'status': 'OK'},730,1863,G. Cramer Oude Kunst
+INFO 2019-08-23 12:41:38,099   {'status': 'OK'},4,1864,J. Paul Getty Museum
+INFO 2019-08-23 12:41:52,203   {'status': 'OK'},934,1717,Kitchen Center for Video, Music, Dance, Performance, Film, and Literature (New York, N.Y.)
+INFO 2019-08-23 12:42:06,140   {'error': 'Record deletion failed: Java::ComMysqlJdbcExceptionsJdbc4::MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`archivesspace`.`repository`, CONSTRAINT `repository_ibfk_2` FOREIGN KEY (`agent_representation_id`) REFERENCES `agent_corporate_entity` (`id`))'},3,1807,Getty Conservation Institute
+INFO 2019-08-23 12:42:18,584   {'status': 'OK'},1339,1605,Woman's Building (Los Angeles, Calif.)
+INFO 2019-08-23 12:42:34,223   {'status': 'OK'},5,1807,Getty Conservation Institute
+INFO 2019-08-23 12:42:48,039   {'status': 'OK'},10,1835,Getty Research Institute
+INFO 2019-08-23 12:43:08,035   {'status': 'OK'},14,1778,Getty Foundation
+INFO 2019-08-23 12:43:22,135   {'status': 'OK'},828,1597,J. Paul Getty Trust. Public Affairs Department
+INFO 2019-08-23 12:43:36,134   {'status': 'OK'},138,1826,Experiments in Art and Technology (Organization)
+INFO 2019-08-23 12:43:50,248   {'status': 'OK'},139,1827,Expo '70 (Osaka, Japan)
